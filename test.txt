@@ -2,8 +2,13 @@ kasdjklajsdlkjsa
 sajdasjkdl
 
 
+<<<<<<< HEAD
 asdjlaskjd
 as;ldksadlk
 
 asjldlsak
 asdkljk
+=======
+asdsahdjshk
+sadjhkashjdk
+>>>>>>> parent of 7e6b056... Second Commit
