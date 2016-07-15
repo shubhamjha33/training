@@ -1,7 +1,10 @@
-kasdjklajsdlkjsa
-sajdasjkdl
+my name is shubham jha. changes have been made.
+asjdksahdksadhk
+asdhsahj
 
+asdhsadhsadjkasdhkj
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 asdjlaskjd
 as;ldksadlk
@@ -12,3 +15,9 @@ asdkljk
 asdsahdjshk
 sadjhkashjdk
 >>>>>>> parent of 7e6b056... Second Commit
+=======
+asdsahdjshk
+sadjhkashjdk
+
+asjkhdakdjks
+>>>>>>> parent of f31d962... third commit:
