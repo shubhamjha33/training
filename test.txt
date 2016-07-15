@@ -25,3 +25,9 @@ ashdhajdhsadkha
 
 1
 2
+<<<<<<< HEAD
+=======
+1
+2
+3
+>>>>>>> testbranch2
