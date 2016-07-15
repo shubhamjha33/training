@@ -32,3 +32,11 @@ ashdhajdhsadkha
 3
 >>>>>>> testbranch2
 4
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+5
+>>>>>>> d870cbb... rebase1
+apple
+>>>>>>> 7ba630d... cherry branch 1
